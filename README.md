@@ -1,6 +1,5 @@
-# mryum-interview
+# Toy Robot Simulator
 ## Description 
-### Toy Robot Simulator - EU Integrations
 The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5
 units x 5 units.
 
